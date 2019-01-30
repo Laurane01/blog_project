@@ -1,24 +1,23 @@
-# README
+## 1/5
+# Bienvenue dans notre premier repository traitant de Ruby on Rails !
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+Moussaillons aux commandes : 
 
-* Ruby version
+Laurane Petit - @Laurane
+Mallaury Bajas - @Mallau
 
-* System dependencies
+# Pour lancer notre projet
+* cloner notre repo sur votre ordinateur
+* executer un bundle install
+* naviguer a travers notre projet
 
-* Configuration
+# Nos réalisations
 
-* Database creation
+* Nous avons réaliser plusieurs applications qui sont chacune organisée dans un repository GitHub
 
-* Database initialization
+# Retour sur expérience
 
-* How to run the test suite
+* Nous avons rencontré de nombreuses difficultés tout au long du projet, désolé pour le résultat  final 🤪
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![texte_présentatif](http://idata.over-blog.com/5/08/25/70/2013/Ralph-Wiggum-Paques.gif)
